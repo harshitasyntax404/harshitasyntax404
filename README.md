@@ -1,23 +1,4 @@
 
-
-  <!-- Section 2: Image left, Text right -->
-  <div class="row align-items-center g-4">
-    <div class="col-12 col-md-6">
-      <img src="img2.jpg" class="section-img" alt="Test Yönetimi">
-    </div>
-    <div class="col-12 col-md-6">
-      <h2 class="display-5 fw-semibold">Test Yönetimi ve Analizi</h2>
-      <p class="text-muted small my-4">
-        Danışmanlığını yürüttüğümüz projelerde yazılım hatalarını önlemek amacıyla...
-      </p>
-      <a href="#" class="btn btn-custom">Keşfet</a>
-    </div>
-  </div>
-
-</div>
-
-</body>
-</html>
 <!-- ============ BANNER ============ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,50:7b3f8f,100:ff7e5f&height=220&section=header&text=Hi,%20I'm%20Harshita&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=A%20Software%20Developer%20in%20making&descAlignY=58&descSize=22" width="100%" />
