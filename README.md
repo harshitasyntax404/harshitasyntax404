@@ -1,17 +1,4 @@
 
-  <!-- Section 1: Text left, Image right -->
-  <div class="row align-items-center g-4 mb-5">
-    <div class="col-12 col-md-6">
-      <h2 class="display-5 fw-semibold">Kalite ve Süreç Yönetimi</h2>
-      <p class="text-muted small my-4">
-        Deneyimli kadromuz; birçok farklı sektörden deneyimli, PMP® sertifikasına sahip...
-      </p>
-      <a href="#" class="btn btn-custom">Keşfet</a>
-    </div>
-    <div class="col-12 col-md-6">
-      <img src="img1.jpg" class="section-img" alt="Kalite ve Süreç Yönetimi">
-    </div>
-  </div>
 
   <!-- Section 2: Image left, Text right -->
   <div class="row align-items-center g-4">
