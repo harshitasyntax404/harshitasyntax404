@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hizmetler</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    .btn-custom { background:#ff4b4b; color:#fff; padding:8px 28px; font-size:14px; }
-    .btn-custom:hover { background:#e63c3c; color:#fff; }
-    .section-img { width:100%; height:100%; max-height:320px; object-fit:cover; border-radius:6px; }
-  </style>
-</head>
-<body>
-
-<div class="container py-5">
 
   <!-- Section 1: Text left, Image right -->
   <div class="row align-items-center g-4 mb-5">
